@@ -1,0 +1,9 @@
+bs4
+requests
+lxml
+transformers
+torch
+torchvision
+torchaudio
+tensorflow
+tf-keras
